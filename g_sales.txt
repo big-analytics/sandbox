@@ -1,0 +1,51 @@
+ID,POSTAL_CODE,BEDROOMS,LIVING_AREA,LAND,PRICE,POSTED,VIEWS,SAVES,TYPE,LOCATION,COMMUNE,G_LOCATION,G_LAT,G_LNG
+7155361,1800,3,220.0,,395000,9/9/2017,,,Apartment,Hondenbergstraat    bus    in  DEELGEMEENTE  HOUTEM    box1800 1800    Vilvoorde ,Vilvoorde,,,
+7154599,1800,3,,100.0,275000,9/8/2017,,,House,Strombeekse  Steenweg  250 1800    Vilvoorde ,Vilvoorde,"Strombeeksesteenweg 250, 1800 Vilvoorde, Belgium",50.9087282,4.365963199999999
+7153094,1800,3,160.0,,137000,9/8/2017,,,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7152365,1800,4,185.0,,295000,9/7/2017,,,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7151794,1800,3,125.0,55.0,199500,9/7/2017,,,House,Spuymolenstraat  94 1800    Vilvoorde ,Vilvoorde,"Spuymolenstraat 94, 1800 Vilvoorde, Belgium",50.9305193,4.4188735
+7151267,1800,4,,238.0,375000,9/7/2017,,,House,Schaarbeeklei  23 1800    Vilvoorde ,Vilvoorde,"Schaarbeeklei 23, 1800 Vilvoorde, Belgium",50.9253899,4.4262647
+7150251,1800,4,228.0,145.0,364000,9/6/2017,,,House,Permekestraat  11 1800     Vilvoorde ,Vilvoorde,"Permekestraat 11, 1800 Vilvoorde, Belgium",50.92324989999999,4.4044732
+7149530,1800,3,160.0,125.0,315000,9/6/2017,,,House,Mutsaertstraat13 1800    Koningslo ,Vilvoorde,"Mutsaertstraat 13, 1800 Vilvoorde, Belgium",50.9016358,4.3634149
+7148370,1800,3,100.0,120.0,245000,9/5/2017,114.0,0.0,House,Hellestraat  13 1800    Vilvoorde ,Vilvoorde,"Hellestraat 13, 1800 Vilvoorde, Belgium",50.9329256,4.4225544
+7146702,1800,3,160.0,876.0,352744,9/4/2017,193.0,1.0,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7146699,1800,3,206.0,326.0,339000,9/4/2017,206.0,1.0,House,Houtemsesteenweg  326 1800    Vilvoorde ,Vilvoorde,"Houtemsesteenweg 326, 1800 Vilvoorde, Belgium",50.9410622,4.4583002
+7145559,1800,3,160.0,876.0,352744,9/4/2017,196.0,2.0,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7145428,1800,3,,196.0,97000,9/4/2017,334.0,6.0,House,Schriekwegel  10 1800    Vilvorde ,Vilvoorde,"Schriekwegel 10, 1800 Vilvoorde, Belgium",50.9456728,4.468213
+7145419,1800,3,,175.0,93000,9/4/2017,502.0,10.0,House,Schriekwegel   1800    Vilvorde ,Vilvoorde,"Schriekwegel, 1800 Vilvoorde, Belgium",50.9455451,4.468411199999999
+7144071,1800,5,379.0,3527.0,1395000,9/2/2017,345.0,3.0,Building,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7140201,1800,3,,180.0,0,8/31/2017,,,House,Vlierkensstraat  35 1800    Vilvorde ,Vilvoorde,"Vlierkensstraat 35, 1800 Vilvoorde, Belgium",50.92438629999999,4.4116251
+7139892,1800,3,,,720000,8/31/2017,,,House,1800     Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7137355,1800,3,150.0,257.0,349000,8/30/2017,,,House,Amazonenlaan  41 1800    Vilvoorde  Koningslo ,Vilvoorde,"Amazonenlaan 41, 1800 Vilvoorde, Belgium",50.9057365,4.3649493
+7136771,1800,4,140.0,242.0,199000,8/29/2017,110.0,3.0,House,Aarschotsestraat  122 1800    Peutie ,Vilvoorde,"Aarschotsestraat 122, 1800 Vilvoorde, Belgium",50.9261525,4.4577573
+7135808,1800,3,,194.0,309000,8/29/2017,427.0,11.0,House,Weikantstraat  18A 1800    Vilvoorde  Koningslo ,Vilvoorde,"Weikantstraat 18, 1800 Vilvoorde, Belgium",50.9140923,4.3706068
+7131414,1800,4,191.0,135.0,335000,8/25/2017,,,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7131090,1800,4,155.0,159.0,310000,8/25/2017,,,House,Quinten  Metsijsstraat  13 1800    Vilvoorde ,Vilvoorde,"Quinten Metsysstraat 13, 1800 Vilvoorde, Belgium",50.92005409999999,4.4071991
+7128236,1800,3,120.0,,239000,8/23/2017,,,Apartment,1800    Koningslo ,Vilvoorde,"Koningslo, 1800 Vilvoorde, Belgium",50.9062369,4.3794485
+7127707,1800,4,213.0,860.0,389000,8/23/2017,,,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7125685,1800,4,140.0,180.0,279000,8/22/2017,228.0,3.0,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7121462,1800,3,176.0,,239000,8/18/2017,361.0,3.0,Apartment,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7121416,1800,3,167.0,255.0,349000,8/18/2017,741.0,11.0,House,Callaertstraat  40 1800    Peutie ,Vilvoorde,"Callaertstraat 40, 1800 Vilvoorde, Belgium",50.9290039,4.4555136
+7119745,1800,3,108.0,75.0,199900,8/17/2017,,,House,Steevoortstraat  68 1800    Vilvoorde ,Vilvoorde,"Steevoortstraat 68, 1800 Vilvoorde, Belgium",50.92787879999999,4.4471415
+7115364,1800,3,95.0,,269000,8/14/2017,,,Apartment,Leuvensesteenweg  10223 1800    Vilvoorde ,Vilvoorde,"Leuvensesteenweg, 1800 Vilvoorde, Belgium",50.9267973,4.444484699999999
+7113774,1800,3,131.0,187.0,340000,8/12/2017,,,House,1800    Vilvoorde  Koningslo ,Vilvoorde,"Koningslo, 1800 Vilvoorde, Belgium",50.9062369,4.3794485
+7113242,1800,3,95.0,,229000,8/12/2017,,,House,Indringingsweg   1800    Vilvoorde ,Vilvoorde,"Indringingsweg, 1800 Vilvorde, Belgium",50.9071934,4.3847508
+7111541,1800,4,165.0,213.0,349000,8/10/2017,299.0,6.0,House,1800    Koningslo ,Vilvoorde,"Koningslo, 1800 Vilvoorde, Belgium",50.9062369,4.3794485
+7110474,1800,3,120.0,160.0,269850,8/10/2017,267.0,1.0,House,Vredestraat  16 1800    Peutie ,Vilvoorde,"Vredestraat 16, 1800 Vilvoorde, Belgium",50.9269252,4.457120499999999
+7107331,1800,4,225.0,441.0,437000,8/8/2017,,,House,De  pomp  27  box1800 1800     Vilvoorde ,Vilvoorde,,,
+7105470,1800,3,100.0,,225000,8/7/2017,,,House,Warandelaan  21B3 1800    Vilvoorde  Koningslo ,Vilvoorde,,,
+7105219,1800,5,300.0,575.0,575000,8/7/2017,,,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7105070,1800,5,205.0,139.0,369000,8/6/2017,54.0,1.0,Apartment,Meeuwenlaan  111 1800    Vilvoorde  Koningslo ,Vilvoorde,"Meeuwenlaan 111, 1800 Vilvoorde, Belgium",50.9114259,4.3671432
+7103346,1800,5,208.0,245.0,399000,8/4/2017,,,House,Steenstraat  77 1800    Vilvoorde  Koningslo ,Vilvoorde,"Steenstraat 77, 1800 Vilvoorde, Belgium",50.9057176,4.3762791
+7101636,1800,4,200.0,275.0,429000,8/3/2017,343.0,3.0,House,1800    Vilvoorde  Koningslo ,Vilvoorde,"Koningslo, 1800 Vilvoorde, Belgium",50.9062369,4.3794485
+7100319,1800,4,220.0,718.0,432000,8/3/2017,385.0,10.0,House,Grimbergsesteenweg  228 1800    VilvoordeGrimbergen ,Vilvoorde,"Grimbergsesteenweg 228, 1800 Vilvoorde, Belgium",50.925458,4.4062043
+7098922,1800,3,196.0,745.0,387000,8/2/2017,620.0,17.0,House,Grensstraat  19 1800    Vilvoorde ,Vilvoorde,"Grensstraat 19, 1800 Vilvoorde, Belgium",50.9499788,4.481586399999999
+7098129,1800,3,205.0,,425000,8/1/2017,262.0,0.0,House,1800     KONINGSLOO ,Vilvoorde,"Koningslo, 1800 Vilvoorde, Belgium",50.9062369,4.3794485
+7098037,1800,3,130.0,,145000,8/1/2017,229.0,2.0,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7097124,1800,3,130.0,,269000,8/1/2017,146.0,0.0,Apartment,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7096666,1800,4,170.0,420.0,389000,7/31/2017,266.0,2.0,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7096046,1800,4,200.0,190.0,275000,7/31/2017,786.0,10.0,House,1800    Vilvoorde ,Vilvoorde,"1800, Belgium",50.9377435,4.460527799999999
+7095894,1800,3,95.0,,244000,7/31/2017,338.0,3.0,Apartment,Leuvensesteenweg  10223 1800    Vilvoorde ,Vilvoorde,"Leuvensesteenweg, 1800 Vilvoorde, Belgium",50.9267973,4.444484699999999
+7095873,1800,3,,350.0,245000,7/31/2017,1280.0,17.0,House,Kwakkelstraat  71 1800    Vilvoorde ,Vilvoorde,"Kwakkelstraat 71, 1800 Vilvoorde, Belgium",50.9079242,4.380004800000001
+7095036,1800,3,196.0,276.0,359000,7/29/2017,1112.0,13.0,House,Arendlaan   1800    Vilvoorde ,Vilvoorde,"Arendlaan, 1800 Vilvoorde, Belgium",50.9095808,4.367204099999999
+7093749,1800,4,140.0,170.0,184000,7/28/2017,1735.0,19.0,House,Tuchthuisstraat  29 1800    Vilvoorde ,Vilvoorde,"Tuchthuisstraat 29, 1800 Vilvoorde, Belgium",50.9255909,4.4241082

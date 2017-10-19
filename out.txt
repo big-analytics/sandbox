@@ -1,0 +1,1761 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 22203 entries, 0 to 22202
+Data columns (total 12 columns):
+ID             22203 non-null int64
+POSTAL_CODE    22203 non-null int64
+BEDROOMS       22203 non-null int64
+LIVING_AREA    20815 non-null float64
+LAND           9617 non-null float64
+PRICE          22203 non-null int64
+POSTED         22203 non-null object
+VIEWS          16736 non-null float64
+SAVES          16736 non-null float64
+TYPE           22203 non-null object
+LOCATION       22116 non-null object
+COMMUNE        21069 non-null object
+dtypes: float64(4), int64(4), object(4)
+memory usage: 2.0+ MB
+ID                                                       7155361
+POSTAL_CODE                                                 1800
+BEDROOMS                                                       3
+LIVING_AREA                                                  220
+LAND                                                         NaN
+PRICE                                                     395000
+POSTED                                                  9/9/2017
+VIEWS                                                        NaN
+SAVES                                                        NaN
+TYPE                                                   Apartment
+LOCATION       Hondenbergstraat    bus    in  DEELGEMEENTE  H...
+COMMUNE                                                Vilvoorde
+G_LOCATION                                                      
+G_LAT                                                           
+G_LNG                                                           
+Name: 17155, dtype: object
+ID                                                   7154599
+POSTAL_CODE                                             1800
+BEDROOMS                                                   3
+LIVING_AREA                                              NaN
+LAND                                                     100
+PRICE                                                 275000
+POSTED                                              9/8/2017
+VIEWS                                                    NaN
+SAVES                                                    NaN
+TYPE                                                   House
+LOCATION       Strombeekse  Steenweg  250 1800    Vilvoorde 
+COMMUNE                                            Vilvoorde
+G_LOCATION                                                  
+G_LAT                                                       
+G_LNG                                                       
+Name: 17156, dtype: object
+ID                        7153094
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   160
+LAND                          NaN
+PRICE                      137000
+POSTED                   9/8/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17157, dtype: object
+ID                        7152365
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   185
+LAND                          NaN
+PRICE                      295000
+POSTED                   9/7/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17158, dtype: object
+ID                                            7151794
+POSTAL_CODE                                      1800
+BEDROOMS                                            3
+LIVING_AREA                                       125
+LAND                                               55
+PRICE                                          199500
+POSTED                                       9/7/2017
+VIEWS                                             NaN
+SAVES                                             NaN
+TYPE                                            House
+LOCATION       Spuymolenstraat  94 1800    Vilvoorde 
+COMMUNE                                     Vilvoorde
+G_LOCATION                                           
+G_LAT                                                
+G_LNG                                                
+Name: 17159, dtype: object
+ID                                          7151267
+POSTAL_CODE                                    1800
+BEDROOMS                                          4
+LIVING_AREA                                     NaN
+LAND                                            238
+PRICE                                        375000
+POSTED                                     9/7/2017
+VIEWS                                           NaN
+SAVES                                           NaN
+TYPE                                          House
+LOCATION       Schaarbeeklei  23 1800    Vilvoorde 
+COMMUNE                                   Vilvoorde
+G_LOCATION                                         
+G_LAT                                              
+G_LNG                                              
+Name: 17160, dtype: object
+ID                                           7150251
+POSTAL_CODE                                     1800
+BEDROOMS                                           4
+LIVING_AREA                                      228
+LAND                                             145
+PRICE                                         364000
+POSTED                                      9/6/2017
+VIEWS                                            NaN
+SAVES                                            NaN
+TYPE                                           House
+LOCATION       Permekestraat  11 1800     Vilvoorde 
+COMMUNE                                    Vilvoorde
+G_LOCATION                                          
+G_LAT                                               
+G_LNG                                               
+Name: 17161, dtype: object
+ID                                         7149530
+POSTAL_CODE                                   1800
+BEDROOMS                                         3
+LIVING_AREA                                    160
+LAND                                           125
+PRICE                                       315000
+POSTED                                    9/6/2017
+VIEWS                                          NaN
+SAVES                                          NaN
+TYPE                                         House
+LOCATION       Mutsaertstraat13 1800    Koningslo 
+COMMUNE                                  Vilvoorde
+G_LOCATION                                        
+G_LAT                                             
+G_LNG                                             
+Name: 17162, dtype: object
+ID                                        7148370
+POSTAL_CODE                                  1800
+BEDROOMS                                        3
+LIVING_AREA                                   100
+LAND                                          120
+PRICE                                      245000
+POSTED                                   9/5/2017
+VIEWS                                         114
+SAVES                                           0
+TYPE                                        House
+LOCATION       Hellestraat  13 1800    Vilvoorde 
+COMMUNE                                 Vilvoorde
+G_LOCATION                                       
+G_LAT                                            
+G_LNG                                            
+Name: 17163, dtype: object
+ID                        7146702
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   160
+LAND                          876
+PRICE                      352744
+POSTED                   9/4/2017
+VIEWS                         193
+SAVES                           1
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17165, dtype: object
+ID                                              7146699
+POSTAL_CODE                                        1800
+BEDROOMS                                              3
+LIVING_AREA                                         206
+LAND                                                326
+PRICE                                            339000
+POSTED                                         9/4/2017
+VIEWS                                               206
+SAVES                                                 1
+TYPE                                              House
+LOCATION       Houtemsesteenweg  326 1800    Vilvoorde 
+COMMUNE                                       Vilvoorde
+G_LOCATION                                             
+G_LAT                                                  
+G_LNG                                                  
+Name: 17166, dtype: object
+ID                        7145559
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   160
+LAND                          876
+PRICE                      352744
+POSTED                   9/4/2017
+VIEWS                         196
+SAVES                           2
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17168, dtype: object
+ID                                        7145428
+POSTAL_CODE                                  1800
+BEDROOMS                                        3
+LIVING_AREA                                   NaN
+LAND                                          196
+PRICE                                       97000
+POSTED                                   9/4/2017
+VIEWS                                         334
+SAVES                                           6
+TYPE                                        House
+LOCATION       Schriekwegel  10 1800    Vilvorde 
+COMMUNE                                 Vilvoorde
+G_LOCATION                                       
+G_LAT                                            
+G_LNG                                            
+Name: 17169, dtype: object
+ID                                      7145419
+POSTAL_CODE                                1800
+BEDROOMS                                      3
+LIVING_AREA                                 NaN
+LAND                                        175
+PRICE                                     93000
+POSTED                                 9/4/2017
+VIEWS                                       502
+SAVES                                        10
+TYPE                                      House
+LOCATION       Schriekwegel   1800    Vilvorde 
+COMMUNE                               Vilvoorde
+G_LOCATION                                     
+G_LAT                                          
+G_LNG                                          
+Name: 17170, dtype: object
+ID                        7144071
+POSTAL_CODE                  1800
+BEDROOMS                        5
+LIVING_AREA                   379
+LAND                         3527
+PRICE                     1395000
+POSTED                   9/2/2017
+VIEWS                         345
+SAVES                           3
+TYPE                     Building
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17171, dtype: object
+ID                                           7140201
+POSTAL_CODE                                     1800
+BEDROOMS                                           3
+LIVING_AREA                                      NaN
+LAND                                             180
+PRICE                                              0
+POSTED                                     8/31/2017
+VIEWS                                            NaN
+SAVES                                            NaN
+TYPE                                           House
+LOCATION       Vlierkensstraat  35 1800    Vilvorde 
+COMMUNE                                    Vilvoorde
+G_LOCATION                                          
+G_LAT                                               
+G_LNG                                               
+Name: 17172, dtype: object
+ID                         7139892
+POSTAL_CODE                   1800
+BEDROOMS                         3
+LIVING_AREA                    NaN
+LAND                           NaN
+PRICE                       720000
+POSTED                   8/31/2017
+VIEWS                          NaN
+SAVES                          NaN
+TYPE                         House
+LOCATION       1800     Vilvoorde 
+COMMUNE                  Vilvoorde
+G_LOCATION                        
+G_LAT                             
+G_LNG                             
+Name: 17173, dtype: object
+ID                                                    7137355
+POSTAL_CODE                                              1800
+BEDROOMS                                                    3
+LIVING_AREA                                               150
+LAND                                                      257
+PRICE                                                  349000
+POSTED                                              8/30/2017
+VIEWS                                                     NaN
+SAVES                                                     NaN
+TYPE                                                    House
+LOCATION       Amazonenlaan  41 1800    Vilvoorde  Koningslo 
+COMMUNE                                             Vilvoorde
+G_LOCATION                                                   
+G_LAT                                                        
+G_LNG                                                        
+Name: 17176, dtype: object
+ID                                           7136771
+POSTAL_CODE                                     1800
+BEDROOMS                                           4
+LIVING_AREA                                      140
+LAND                                             242
+PRICE                                         199000
+POSTED                                     8/29/2017
+VIEWS                                            110
+SAVES                                              3
+TYPE                                           House
+LOCATION       Aarschotsestraat  122 1800    Peutie 
+COMMUNE                                    Vilvoorde
+G_LOCATION                                          
+G_LAT                                               
+G_LNG                                               
+Name: 17177, dtype: object
+ID                                                      7135808
+POSTAL_CODE                                                1800
+BEDROOMS                                                      3
+LIVING_AREA                                                 NaN
+LAND                                                        194
+PRICE                                                    309000
+POSTED                                                8/29/2017
+VIEWS                                                       427
+SAVES                                                        11
+TYPE                                                      House
+LOCATION       Weikantstraat  18A 1800    Vilvoorde  Koningslo 
+COMMUNE                                               Vilvoorde
+G_LOCATION                                                     
+G_LAT                                                          
+G_LNG                                                          
+Name: 17179, dtype: object
+ID                        7131414
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   191
+LAND                          135
+PRICE                      335000
+POSTED                  8/25/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17181, dtype: object
+ID                                                   7131090
+POSTAL_CODE                                             1800
+BEDROOMS                                                   4
+LIVING_AREA                                              155
+LAND                                                     159
+PRICE                                                 310000
+POSTED                                             8/25/2017
+VIEWS                                                    NaN
+SAVES                                                    NaN
+TYPE                                                   House
+LOCATION       Quinten  Metsijsstraat  13 1800    Vilvoorde 
+COMMUNE                                            Vilvoorde
+G_LOCATION                                                  
+G_LAT                                                       
+G_LNG                                                       
+Name: 17182, dtype: object
+ID                        7128236
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   120
+LAND                          NaN
+PRICE                      239000
+POSTED                  8/23/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                    Apartment
+LOCATION       1800    Koningslo 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17183, dtype: object
+ID                        7127707
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   213
+LAND                          860
+PRICE                      389000
+POSTED                  8/23/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17184, dtype: object
+ID                        7125685
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   140
+LAND                          180
+PRICE                      279000
+POSTED                  8/22/2017
+VIEWS                         228
+SAVES                           3
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17187, dtype: object
+ID                        7121462
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   176
+LAND                          NaN
+PRICE                      239000
+POSTED                  8/18/2017
+VIEWS                         361
+SAVES                           3
+TYPE                    Apartment
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17190, dtype: object
+ID                                        7121416
+POSTAL_CODE                                  1800
+BEDROOMS                                        3
+LIVING_AREA                                   167
+LAND                                          255
+PRICE                                      349000
+POSTED                                  8/18/2017
+VIEWS                                         741
+SAVES                                          11
+TYPE                                        House
+LOCATION       Callaertstraat  40 1800    Peutie 
+COMMUNE                                 Vilvoorde
+G_LOCATION                                       
+G_LAT                                            
+G_LNG                                            
+Name: 17191, dtype: object
+ID                                            7119745
+POSTAL_CODE                                      1800
+BEDROOMS                                            3
+LIVING_AREA                                       108
+LAND                                               75
+PRICE                                          199900
+POSTED                                      8/17/2017
+VIEWS                                             NaN
+SAVES                                             NaN
+TYPE                                            House
+LOCATION       Steevoortstraat  68 1800    Vilvoorde 
+COMMUNE                                     Vilvoorde
+G_LOCATION                                           
+G_LAT                                                
+G_LNG                                                
+Name: 17192, dtype: object
+ID                                                7115364
+POSTAL_CODE                                          1800
+BEDROOMS                                                3
+LIVING_AREA                                            95
+LAND                                                  NaN
+PRICE                                              269000
+POSTED                                          8/14/2017
+VIEWS                                                 NaN
+SAVES                                                 NaN
+TYPE                                            Apartment
+LOCATION       Leuvensesteenweg  10223 1800    Vilvoorde 
+COMMUNE                                         Vilvoorde
+G_LOCATION                                               
+G_LAT                                                    
+G_LNG                                                    
+Name: 17194, dtype: object
+ID                                   7113774
+POSTAL_CODE                             1800
+BEDROOMS                                   3
+LIVING_AREA                              131
+LAND                                     187
+PRICE                                 340000
+POSTED                             8/12/2017
+VIEWS                                    NaN
+SAVES                                    NaN
+TYPE                                   House
+LOCATION       1800    Vilvoorde  Koningslo 
+COMMUNE                            Vilvoorde
+G_LOCATION                                  
+G_LAT                                       
+G_LNG                                       
+Name: 17195, dtype: object
+ID                                         7113242
+POSTAL_CODE                                   1800
+BEDROOMS                                         3
+LIVING_AREA                                     95
+LAND                                           NaN
+PRICE                                       229000
+POSTED                                   8/12/2017
+VIEWS                                          NaN
+SAVES                                          NaN
+TYPE                                         House
+LOCATION       Indringingsweg   1800    Vilvoorde 
+COMMUNE                                  Vilvoorde
+G_LOCATION                                        
+G_LAT                                             
+G_LNG                                             
+Name: 17196, dtype: object
+ID                        7111541
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   165
+LAND                          213
+PRICE                      349000
+POSTED                  8/10/2017
+VIEWS                         299
+SAVES                           6
+TYPE                        House
+LOCATION       1800    Koningslo 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17198, dtype: object
+ID                                     7110474
+POSTAL_CODE                               1800
+BEDROOMS                                     3
+LIVING_AREA                                120
+LAND                                       160
+PRICE                                   269850
+POSTED                               8/10/2017
+VIEWS                                      267
+SAVES                                        1
+TYPE                                     House
+LOCATION       Vredestraat  16 1800    Peutie 
+COMMUNE                              Vilvoorde
+G_LOCATION                                    
+G_LAT                                         
+G_LNG                                         
+Name: 17199, dtype: object
+ID                                               7107331
+POSTAL_CODE                                         1800
+BEDROOMS                                               4
+LIVING_AREA                                          225
+LAND                                                 441
+PRICE                                             437000
+POSTED                                          8/8/2017
+VIEWS                                                NaN
+SAVES                                                NaN
+TYPE                                               House
+LOCATION       De  pomp  27  box1800 1800     Vilvoorde 
+COMMUNE                                        Vilvoorde
+G_LOCATION                                              
+G_LAT                                                   
+G_LNG                                                   
+Name: 17201, dtype: object
+ID                                                     7105470
+POSTAL_CODE                                               1800
+BEDROOMS                                                     3
+LIVING_AREA                                                100
+LAND                                                       NaN
+PRICE                                                   225000
+POSTED                                                8/7/2017
+VIEWS                                                      NaN
+SAVES                                                      NaN
+TYPE                                                     House
+LOCATION       Warandelaan  21B3 1800    Vilvoorde  Koningslo 
+COMMUNE                                              Vilvoorde
+G_LOCATION                                                    
+G_LAT                                                         
+G_LNG                                                         
+Name: 17202, dtype: object
+ID                        7105219
+POSTAL_CODE                  1800
+BEDROOMS                        5
+LIVING_AREA                   300
+LAND                          575
+PRICE                      575000
+POSTED                   8/7/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17203, dtype: object
+ID                                                    7105070
+POSTAL_CODE                                              1800
+BEDROOMS                                                    5
+LIVING_AREA                                               205
+LAND                                                      139
+PRICE                                                  369000
+POSTED                                               8/6/2017
+VIEWS                                                      54
+SAVES                                                       1
+TYPE                                                Apartment
+LOCATION       Meeuwenlaan  111 1800    Vilvoorde  Koningslo 
+COMMUNE                                             Vilvoorde
+G_LOCATION                                                   
+G_LAT                                                        
+G_LNG                                                        
+Name: 17205, dtype: object
+ID                                                   7103346
+POSTAL_CODE                                             1800
+BEDROOMS                                                   5
+LIVING_AREA                                              208
+LAND                                                     245
+PRICE                                                 399000
+POSTED                                              8/4/2017
+VIEWS                                                    NaN
+SAVES                                                    NaN
+TYPE                                                   House
+LOCATION       Steenstraat  77 1800    Vilvoorde  Koningslo 
+COMMUNE                                            Vilvoorde
+G_LOCATION                                                  
+G_LAT                                                       
+G_LNG                                                       
+Name: 17207, dtype: object
+ID                                   7101636
+POSTAL_CODE                             1800
+BEDROOMS                                   4
+LIVING_AREA                              200
+LAND                                     275
+PRICE                                 429000
+POSTED                              8/3/2017
+VIEWS                                    343
+SAVES                                      3
+TYPE                                   House
+LOCATION       1800    Vilvoorde  Koningslo 
+COMMUNE                            Vilvoorde
+G_LOCATION                                  
+G_LAT                                       
+G_LNG                                       
+Name: 17208, dtype: object
+ID                                                       7100319
+POSTAL_CODE                                                 1800
+BEDROOMS                                                       4
+LIVING_AREA                                                  220
+LAND                                                         718
+PRICE                                                     432000
+POSTED                                                  8/3/2017
+VIEWS                                                        385
+SAVES                                                         10
+TYPE                                                       House
+LOCATION       Grimbergsesteenweg  228 1800    VilvoordeGrimb...
+COMMUNE                                                Vilvoorde
+G_LOCATION                                                      
+G_LAT                                                           
+G_LNG                                                           
+Name: 17209, dtype: object
+ID                                        7098922
+POSTAL_CODE                                  1800
+BEDROOMS                                        3
+LIVING_AREA                                   196
+LAND                                          745
+PRICE                                      387000
+POSTED                                   8/2/2017
+VIEWS                                         620
+SAVES                                          17
+TYPE                                        House
+LOCATION       Grensstraat  19 1800    Vilvoorde 
+COMMUNE                                 Vilvoorde
+G_LOCATION                                       
+G_LAT                                            
+G_LNG                                            
+Name: 17210, dtype: object
+ID                          7098129
+POSTAL_CODE                    1800
+BEDROOMS                          3
+LIVING_AREA                     205
+LAND                            NaN
+PRICE                        425000
+POSTED                     8/1/2017
+VIEWS                           262
+SAVES                             0
+TYPE                          House
+LOCATION       1800     KONINGSLOO 
+COMMUNE                   Vilvoorde
+G_LOCATION                         
+G_LAT                              
+G_LNG                              
+Name: 17211, dtype: object
+ID                        7098037
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   130
+LAND                          NaN
+PRICE                      145000
+POSTED                   8/1/2017
+VIEWS                         229
+SAVES                           2
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17212, dtype: object
+ID                        7097124
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   130
+LAND                          NaN
+PRICE                      269000
+POSTED                   8/1/2017
+VIEWS                         146
+SAVES                           0
+TYPE                    Apartment
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17213, dtype: object
+ID                        7096666
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   170
+LAND                          420
+PRICE                      389000
+POSTED                  7/31/2017
+VIEWS                         266
+SAVES                           2
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17214, dtype: object
+ID                        7096046
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   200
+LAND                          190
+PRICE                      275000
+POSTED                  7/31/2017
+VIEWS                         786
+SAVES                          10
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17217, dtype: object
+ID                                                7095894
+POSTAL_CODE                                          1800
+BEDROOMS                                                3
+LIVING_AREA                                            95
+LAND                                                  NaN
+PRICE                                              244000
+POSTED                                          7/31/2017
+VIEWS                                                 338
+SAVES                                                   3
+TYPE                                            Apartment
+LOCATION       Leuvensesteenweg  10223 1800    Vilvoorde 
+COMMUNE                                         Vilvoorde
+G_LOCATION                                               
+G_LAT                                                    
+G_LNG                                                    
+Name: 17218, dtype: object
+ID                                          7095873
+POSTAL_CODE                                    1800
+BEDROOMS                                          3
+LIVING_AREA                                     NaN
+LAND                                            350
+PRICE                                        245000
+POSTED                                    7/31/2017
+VIEWS                                          1280
+SAVES                                            17
+TYPE                                          House
+LOCATION       Kwakkelstraat  71 1800    Vilvoorde 
+COMMUNE                                   Vilvoorde
+G_LOCATION                                         
+G_LAT                                              
+G_LNG                                              
+Name: 17219, dtype: object
+ID                                    7095036
+POSTAL_CODE                              1800
+BEDROOMS                                    3
+LIVING_AREA                               196
+LAND                                      276
+PRICE                                  359000
+POSTED                              7/29/2017
+VIEWS                                    1112
+SAVES                                      13
+TYPE                                    House
+LOCATION       Arendlaan   1800    Vilvoorde 
+COMMUNE                             Vilvoorde
+G_LOCATION                                   
+G_LAT                                        
+G_LNG                                        
+Name: 17220, dtype: object
+ID                                            7093749
+POSTAL_CODE                                      1800
+BEDROOMS                                            4
+LIVING_AREA                                       140
+LAND                                              170
+PRICE                                          184000
+POSTED                                      7/28/2017
+VIEWS                                            1735
+SAVES                                              19
+TYPE                                            House
+LOCATION       Tuchthuisstraat  29 1800    Vilvoorde 
+COMMUNE                                     Vilvoorde
+G_LOCATION                                           
+G_LAT                                                
+G_LNG                                                
+Name: 17223, dtype: object
+ID                                         7089999
+POSTAL_CODE                                   1800
+BEDROOMS                                         5
+LIVING_AREA                                    176
+LAND                                            85
+PRICE                                       299000
+POSTED                                   7/25/2017
+VIEWS                                          453
+SAVES                                            1
+TYPE                                         House
+LOCATION       Koepoortstraat   1800    Vilvoorde 
+COMMUNE                                  Vilvoorde
+G_LOCATION                                        
+G_LAT                                             
+G_LNG                                             
+Name: 17226, dtype: object
+ID                                               7087380
+POSTAL_CODE                                         1800
+BEDROOMS                                               3
+LIVING_AREA                                          220
+LAND                                                 300
+PRICE                                             259000
+POSTED                                         7/23/2017
+VIEWS                                               1075
+SAVES                                                  5
+TYPE                                               House
+LOCATION       grimbergsesteenweg  60 1800    Vilvoorde 
+COMMUNE                                        Vilvoorde
+G_LOCATION                                              
+G_LAT                                                   
+G_LNG                                                   
+Name: 17227, dtype: object
+ID                                      7085764
+POSTAL_CODE                                1800
+BEDROOMS                                      3
+LIVING_AREA                                 130
+LAND                                        674
+PRICE                                    375000
+POSTED                                7/20/2017
+VIEWS                                      1197
+SAVES                                         8
+TYPE                                      House
+LOCATION       Ravenlaan  21 1800    Vilvoorde 
+COMMUNE                               Vilvoorde
+G_LOCATION                                     
+G_LAT                                          
+G_LNG                                          
+Name: 17229, dtype: object
+ID                                                       7084180
+POSTAL_CODE                                                 1800
+BEDROOMS                                                       4
+LIVING_AREA                                                  220
+LAND                                                         NaN
+PRICE                                                     317000
+POSTED                                                 7/19/2017
+VIEWS                                                       1403
+SAVES                                                         16
+TYPE                                                       House
+LOCATION       Roger  de  Grimberghestraat  70 1800    Vilvoo...
+COMMUNE                                                Vilvoorde
+G_LOCATION                                                      
+G_LAT                                                           
+G_LNG                                                           
+Name: 17230, dtype: object
+ID                                         7084061
+POSTAL_CODE                                   1800
+BEDROOMS                                         3
+LIVING_AREA                                    180
+LAND                                           130
+PRICE                                       299000
+POSTED                                   7/19/2017
+VIEWS                                         2436
+SAVES                                           25
+TYPE                                         House
+LOCATION       Papegaaistraat   1800    Vilvoorde 
+COMMUNE                                  Vilvoorde
+G_LOCATION                                        
+G_LAT                                             
+G_LNG                                             
+Name: 17231, dtype: object
+ID                                         7083018
+POSTAL_CODE                                   1800
+BEDROOMS                                         3
+LIVING_AREA                                    160
+LAND                                           NaN
+PRICE                                       315000
+POSTED                                   7/19/2017
+VIEWS                                         3461
+SAVES                                           51
+TYPE                                         House
+LOCATION       Groenstraat  187 1800    Vilvoorde 
+COMMUNE                                  Vilvoorde
+G_LOCATION                                        
+G_LAT                                             
+G_LNG                                             
+Name: 17232, dtype: object
+ID                        7080806
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   161
+LAND                           78
+PRICE                      215000
+POSTED                  7/17/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17234, dtype: object
+ID                        7080803
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   154
+LAND                          205
+PRICE                      265000
+POSTED                  7/17/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17235, dtype: object
+ID                                                7080571
+POSTAL_CODE                                          1800
+BEDROOMS                                                5
+LIVING_AREA                                           150
+LAND                                                  120
+PRICE                                              265000
+POSTED                                          7/17/2017
+VIEWS                                                 NaN
+SAVES                                                 NaN
+TYPE                                                House
+LOCATION       Grimbergsesteenweg  127 1800    Vilvoorde 
+COMMUNE                                         Vilvoorde
+G_LOCATION                                               
+G_LAT                                                    
+G_LNG                                                    
+Name: 17236, dtype: object
+ID                                        7077516
+POSTAL_CODE                                  1800
+BEDROOMS                                        3
+LIVING_AREA                                   179
+LAND                                          615
+PRICE                                      445000
+POSTED                                  7/14/2017
+VIEWS                                         476
+SAVES                                           5
+TYPE                                        House
+LOCATION       Frankrijklaan   1800    Vilvoorde 
+COMMUNE                                 Vilvoorde
+G_LOCATION                                       
+G_LAT                                            
+G_LNG                                            
+Name: 17238, dtype: object
+ID                                           7075819
+POSTAL_CODE                                     1800
+BEDROOMS                                           3
+LIVING_AREA                                      110
+LAND                                             112
+PRICE                                         209000
+POSTED                                     7/13/2017
+VIEWS                                            NaN
+SAVES                                            NaN
+TYPE                                        Building
+LOCATION       Mechelsestraat  27 1800    Vilvoorde 
+COMMUNE                                    Vilvoorde
+G_LOCATION                                          
+G_LAT                                               
+G_LNG                                               
+Name: 17239, dtype: object
+ID                        7075497
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   150
+LAND                          220
+PRICE                      295000
+POSTED                  7/13/2017
+VIEWS                         NaN
+SAVES                         NaN
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17240, dtype: object
+ID                                                    7075471
+POSTAL_CODE                                              1800
+BEDROOMS                                                    5
+LIVING_AREA                                               205
+LAND                                                      139
+PRICE                                                  375000
+POSTED                                              7/13/2017
+VIEWS                                                     NaN
+SAVES                                                     NaN
+TYPE                                                Apartment
+LOCATION       Meeuwenlaan  111 1800    Vilvoorde  Koningslo 
+COMMUNE                                             Vilvoorde
+G_LOCATION                                                   
+G_LAT                                                        
+G_LNG                                                        
+Name: 17241, dtype: object
+ID                                              7072518
+POSTAL_CODE                                        1800
+BEDROOMS                                              3
+LIVING_AREA                                         153
+LAND                                                276
+PRICE                                            247000
+POSTED                                        7/11/2017
+VIEWS                                               663
+SAVES                                                 4
+TYPE                                          Apartment
+LOCATION       Brusselsesteenweg  62 1800    Vilvoorde 
+COMMUNE                                       Vilvoorde
+G_LOCATION                                             
+G_LAT                                                  
+G_LNG                                                  
+Name: 17242, dtype: object
+ID                        7070663
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   208
+LAND                          374
+PRICE                      349000
+POSTED                  7/10/2017
+VIEWS                         737
+SAVES                           7
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17243, dtype: object
+ID                                           7070467
+POSTAL_CODE                                     1800
+BEDROOMS                                           3
+LIVING_AREA                                      167
+LAND                                             NaN
+PRICE                                         299000
+POSTED                                     7/10/2017
+VIEWS                                            195
+SAVES                                              4
+TYPE                                       Apartment
+LOCATION       Leuvensestraat  51 1800    Vilvoorde 
+COMMUNE                                    Vilvoorde
+G_LOCATION                                          
+G_LAT                                               
+G_LNG                                               
+Name: 17244, dtype: object
+ID                                     7070232
+POSTAL_CODE                               1800
+BEDROOMS                                     4
+LIVING_AREA                                250
+LAND                                       900
+PRICE                                   475000
+POSTED                                7/9/2017
+VIEWS                                     1708
+SAVES                                        6
+TYPE                                     House
+LOCATION       schoewever   1800    Vilvoorde 
+COMMUNE                              Vilvoorde
+G_LOCATION                                    
+G_LAT                                         
+G_LNG                                         
+Name: 17245, dtype: object
+ID                        7070196
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   148
+LAND                          175
+PRICE                      299000
+POSTED                   7/9/2017
+VIEWS                        1014
+SAVES                          21
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17246, dtype: object
+ID                        7070194
+POSTAL_CODE                  1800
+BEDROOMS                        5
+LIVING_AREA                   211
+LAND                          114
+PRICE                      299000
+POSTED                   7/9/2017
+VIEWS                         868
+SAVES                           3
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17247, dtype: object
+ID                         7069869
+POSTAL_CODE                   1800
+BEDROOMS                         4
+LIVING_AREA                    222
+LAND                           600
+PRICE                       485000
+POSTED                   7/10/2017
+VIEWS                         3684
+SAVES                           14
+TYPE                         House
+LOCATION       1800    Koningsloo 
+COMMUNE                  Vilvoorde
+G_LOCATION                        
+G_LAT                             
+G_LNG                             
+Name: 17248, dtype: object
+ID                                                     7069573
+POSTAL_CODE                                               1800
+BEDROOMS                                                     3
+LIVING_AREA                                                176
+LAND                                                       NaN
+PRICE                                                   380000
+POSTED                                                7/8/2017
+VIEWS                                                      NaN
+SAVES                                                      NaN
+TYPE                                                     House
+LOCATION       Franklin  Rooseveltlaan  117 1800    Vilvoorde 
+COMMUNE                                              Vilvoorde
+G_LOCATION                                                    
+G_LAT                                                         
+G_LNG                                                         
+Name: 17249, dtype: object
+ID                                               7067884
+POSTAL_CODE                                         1800
+BEDROOMS                                               4
+LIVING_AREA                                          160
+LAND                                                 100
+PRICE                                             259500
+POSTED                                          7/7/2017
+VIEWS                                                606
+SAVES                                                  5
+TYPE                                               House
+LOCATION       Brusselsesteenweg  130 1800    Vilvoorde 
+COMMUNE                                        Vilvoorde
+G_LOCATION                                              
+G_LAT                                                   
+G_LNG                                                   
+Name: 17252, dtype: object
+ID                                       7066869
+POSTAL_CODE                                 1800
+BEDROOMS                                       3
+LIVING_AREA                                  110
+LAND                                         NaN
+PRICE                                     200000
+POSTED                                  7/6/2017
+VIEWS                                        491
+SAVES                                          3
+TYPE                                       House
+LOCATION       Olmstraat  173 1800    Vilvoorde 
+COMMUNE                                Vilvoorde
+G_LOCATION                                      
+G_LAT                                           
+G_LNG                                           
+Name: 17253, dtype: object
+ID                                              7065365
+POSTAL_CODE                                        1800
+BEDROOMS                                              3
+LIVING_AREA                                         120
+LAND                                                NaN
+PRICE                                            149500
+POSTED                                         7/6/2017
+VIEWS                                               797
+SAVES                                                10
+TYPE                                              House
+LOCATION       Mechelsesteenweg  215 1800    Vilvoorde 
+COMMUNE                                       Vilvoorde
+G_LOCATION                                             
+G_LAT                                                  
+G_LNG                                                  
+Name: 17254, dtype: object
+ID                                      7064646
+POSTAL_CODE                                1800
+BEDROOMS                                      3
+LIVING_AREA                                 100
+LAND                                        255
+PRICE                                    294500
+POSTED                                 7/5/2017
+VIEWS                                       202
+SAVES                                         3
+TYPE                                      House
+LOCATION       Martelarenstraat 1800    Peutie 
+COMMUNE                               Vilvoorde
+G_LOCATION                                     
+G_LAT                                          
+G_LNG                                          
+Name: 17255, dtype: object
+ID                                             7061688
+POSTAL_CODE                                       1800
+BEDROOMS                                             3
+LIVING_AREA                                         90
+LAND                                               NaN
+PRICE                                           295000
+POSTED                                        7/4/2017
+VIEWS                                              NaN
+SAVES                                              NaN
+TYPE                                         Apartment
+LOCATION       Twee  Leeuwenweg  22 1800    Vilvoorde 
+COMMUNE                                      Vilvoorde
+G_LOCATION                                            
+G_LAT                                                 
+G_LNG                                                 
+Name: 17259, dtype: object
+ID                                        7060648
+POSTAL_CODE                                  1800
+BEDROOMS                                        3
+LIVING_AREA                                   NaN
+LAND                                          200
+PRICE                                      235000
+POSTED                                   7/3/2017
+VIEWS                                        1250
+SAVES                                          12
+TYPE                                        House
+LOCATION       hellestraat  54 1800    Vilvoorde 
+COMMUNE                                 Vilvoorde
+G_LOCATION                                       
+G_LAT                                            
+G_LNG                                            
+Name: 17261, dtype: object
+ID                        7060267
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   301
+LAND                          144
+PRICE                      450000
+POSTED                   7/3/2017
+VIEWS                         334
+SAVES                           0
+TYPE                     Building
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17262, dtype: object
+ID                        7057378
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   105
+LAND                          126
+PRICE                      240000
+POSTED                  6/30/2017
+VIEWS                        1361
+SAVES                           8
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17264, dtype: object
+ID                                         7057072
+POSTAL_CODE                                   1800
+BEDROOMS                                         4
+LIVING_AREA                                    138
+LAND                                           142
+PRICE                                       185000
+POSTED                                   6/30/2017
+VIEWS                                         1268
+SAVES                                           16
+TYPE                                         House
+LOCATION       Vilvoordestraat  58 1800    Peutie 
+COMMUNE                                  Vilvoorde
+G_LOCATION                                        
+G_LAT                                             
+G_LNG                                             
+Name: 17265, dtype: object
+ID                        7056616
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   206
+LAND                          NaN
+PRICE                      425000
+POSTED                  6/30/2017
+VIEWS                         236
+SAVES                           0
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17266, dtype: object
+ID                                          7056420
+POSTAL_CODE                                    1800
+BEDROOMS                                          3
+LIVING_AREA                                     145
+LAND                                            310
+PRICE                                        365000
+POSTED                                    6/30/2017
+VIEWS                                           462
+SAVES                                             1
+TYPE                                          House
+LOCATION       Jan  Breydelstraat   1800    Peutie 
+COMMUNE                                   Vilvoorde
+G_LOCATION                                         
+G_LAT                                              
+G_LNG                                              
+Name: 17267, dtype: object
+ID                                              7056096
+POSTAL_CODE                                        1800
+BEDROOMS                                              3
+LIVING_AREA                                         NaN
+LAND                                                200
+PRICE                                            260000
+POSTED                                        6/30/2017
+VIEWS                                               657
+SAVES                                                 4
+TYPE                                              House
+LOCATION       Blaesenbergstraat  84 1800    Vilvoorde 
+COMMUNE                                       Vilvoorde
+G_LOCATION                                             
+G_LAT                                                  
+G_LNG                                                  
+Name: 17268, dtype: object
+ID                        7055032
+POSTAL_CODE                  1800
+BEDROOMS                        5
+LIVING_AREA                   252
+LAND                          565
+PRICE                      365000
+POSTED                  6/29/2017
+VIEWS                         887
+SAVES                           8
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17269, dtype: object
+ID                                               7053733
+POSTAL_CODE                                         1800
+BEDROOMS                                               3
+LIVING_AREA                                          250
+LAND                                                 569
+PRICE                                             720000
+POSTED                                         6/28/2017
+VIEWS                                                547
+SAVES                                                  4
+TYPE                                               House
+LOCATION       Leliestraat    box1800 1800    Vilvoorde 
+COMMUNE                                        Vilvoorde
+G_LOCATION                                              
+G_LAT                                                   
+G_LNG                                                   
+Name: 17271, dtype: object
+ID                        7053174
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   206
+LAND                          353
+PRICE                      349950
+POSTED                  6/27/2017
+VIEWS                        1849
+SAVES                          23
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17273, dtype: object
+ID                                                    7051646
+POSTAL_CODE                                              1800
+BEDROOMS                                                    3
+LIVING_AREA                                               131
+LAND                                                      183
+PRICE                                                  305000
+POSTED                                              6/27/2017
+VIEWS                                                    1103
+SAVES                                                       8
+TYPE                                                    House
+LOCATION       Warandelaan  122 1800    Vilvoorde  Koningslo 
+COMMUNE                                             Vilvoorde
+G_LOCATION                                                   
+G_LAT                                                        
+G_LNG                                                        
+Name: 17274, dtype: object
+ID                                       7051456
+POSTAL_CODE                                 1800
+BEDROOMS                                       3
+LIVING_AREA                                  NaN
+LAND                                         308
+PRICE                                     295000
+POSTED                                 6/26/2017
+VIEWS                                       1197
+SAVES                                          4
+TYPE                                       House
+LOCATION       Damstraat  122 1800    Vilvoorde 
+COMMUNE                                Vilvoorde
+G_LOCATION                                      
+G_LAT                                           
+G_LNG                                           
+Name: 17275, dtype: object
+ID                                                      7048183
+POSTAL_CODE                                                1800
+BEDROOMS                                                      4
+LIVING_AREA                                                 NaN
+LAND                                                        359
+PRICE                                                    375000
+POSTED                                                6/23/2017
+VIEWS                                                      1202
+SAVES                                                         8
+TYPE                                                      House
+LOCATION       Berkendallaan  152 1800    Vilvoorde  Koningslo 
+COMMUNE                                               Vilvoorde
+G_LOCATION                                                     
+G_LAT                                                          
+G_LNG                                                          
+Name: 17278, dtype: object
+ID                                                     7047145
+POSTAL_CODE                                               1800
+BEDROOMS                                                     3
+LIVING_AREA                                                146
+LAND                                                       120
+PRICE                                                   175000
+POSTED                                               6/23/2017
+VIEWS                                                     5085
+SAVES                                                       23
+TYPE                                                     House
+LOCATION       Kruisboogschuttersstraat  26 1800    Vilvoorde 
+COMMUNE                                              Vilvoorde
+G_LOCATION                                                    
+G_LAT                                                         
+G_LNG                                                         
+Name: 17280, dtype: object
+ID                                           7046810
+POSTAL_CODE                                     1800
+BEDROOMS                                           3
+LIVING_AREA                                      NaN
+LAND                                             188
+PRICE                                         349000
+POSTED                                     6/23/2017
+VIEWS                                            236
+SAVES                                              0
+TYPE                                           House
+LOCATION       Mechelsestraat  47 1800    Vilvoorde 
+COMMUNE                                    Vilvoorde
+G_LOCATION                                          
+G_LAT                                               
+G_LNG                                               
+Name: 17281, dtype: object
+ID                                               7042828
+POSTAL_CODE                                         1800
+BEDROOMS                                               4
+LIVING_AREA                                          276
+LAND                                                 199
+PRICE                                             379000
+POSTED                                         6/21/2017
+VIEWS                                                560
+SAVES                                                  4
+TYPE                                               House
+LOCATION       Nijverheidsstraat  115 1800    Vilvoorde 
+COMMUNE                                        Vilvoorde
+G_LOCATION                                              
+G_LAT                                                   
+G_LNG                                                   
+Name: 17283, dtype: object
+ID                        7042474
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   130
+LAND                          NaN
+PRICE                      249000
+POSTED                  6/20/2017
+VIEWS                         167
+SAVES                           0
+TYPE                    Apartment
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17285, dtype: object
+ID                        7042470
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   133
+LAND                          NaN
+PRICE                      239000
+POSTED                  6/20/2017
+VIEWS                         156
+SAVES                           0
+TYPE                    Apartment
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17287, dtype: object
+ID                         7042469
+POSTAL_CODE                   1800
+BEDROOMS                         3
+LIVING_AREA                    131
+LAND                           NaN
+PRICE                       265000
+POSTED                   6/20/2017
+VIEWS                          149
+SAVES                            0
+TYPE                     Apartment
+LOCATION       1800     Vilvoorde 
+COMMUNE                  Vilvoorde
+G_LOCATION                        
+G_LAT                             
+G_LNG                             
+Name: 17288, dtype: object
+ID                                             7042186
+POSTAL_CODE                                       1800
+BEDROOMS                                             3
+LIVING_AREA                                        250
+LAND                                              1235
+PRICE                                           385000
+POSTED                                       6/20/2017
+VIEWS                                              679
+SAVES                                                4
+TYPE                                         Apartment
+LOCATION       Groene  Grachtstraat    1800    Peutie 
+COMMUNE                                      Vilvoorde
+G_LOCATION                                            
+G_LAT                                                 
+G_LNG                                                 
+Name: 17293, dtype: object
+ID                                              7041827
+POSTAL_CODE                                        1800
+BEDROOMS                                              3
+LIVING_AREA                                         NaN
+LAND                                                776
+PRICE                                            345000
+POSTED                                        6/20/2017
+VIEWS                                              1842
+SAVES                                                10
+TYPE                                              House
+LOCATION       Haesendonckstraat  76 1800    Vilvoorde 
+COMMUNE                                       Vilvoorde
+G_LOCATION                                             
+G_LAT                                                  
+G_LNG                                                  
+Name: 17294, dtype: object
+ID                                      7039322
+POSTAL_CODE                                1800
+BEDROOMS                                      3
+LIVING_AREA                                 165
+LAND                                        227
+PRICE                                    349000
+POSTED                                6/19/2017
+VIEWS                                      1252
+SAVES                                        17
+TYPE                                      House
+LOCATION       Mezenlaan  69 1800    Vilvoorde 
+COMMUNE                               Vilvoorde
+G_LOCATION                                     
+G_LAT                                          
+G_LNG                                          
+Name: 17295, dtype: object
+ID                        7039168
+POSTAL_CODE                  1800
+BEDROOMS                        4
+LIVING_AREA                   250
+LAND                           85
+PRICE                      318000
+POSTED                  6/19/2017
+VIEWS                        1299
+SAVES                           2
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17297, dtype: object
+ID                        7039161
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   149
+LAND                          100
+PRICE                      279000
+POSTED                  6/19/2017
+VIEWS                        1058
+SAVES                           2
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17300, dtype: object
+ID                        7039160
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   110
+LAND                          267
+PRICE                      249000
+POSTED                  6/19/2017
+VIEWS                        3342
+SAVES                          29
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17301, dtype: object
+ID                                                7038509
+POSTAL_CODE                                          1800
+BEDROOMS                                                4
+LIVING_AREA                                           145
+LAND                                                  213
+PRICE                                              375000
+POSTED                                          6/18/2017
+VIEWS                                                 927
+SAVES                                                   7
+TYPE                                                House
+LOCATION       Mechelsesteenweg  306   1800    Vilvoorde 
+COMMUNE                                         Vilvoorde
+G_LOCATION                                               
+G_LAT                                                    
+G_LNG                                                    
+Name: 17302, dtype: object
+ID                                         7038378
+POSTAL_CODE                                   1800
+BEDROOMS                                         3
+LIVING_AREA                                    183
+LAND                                           560
+PRICE                                       269000
+POSTED                                   6/18/2017
+VIEWS                                         2112
+SAVES                                           32
+TYPE                                         House
+LOCATION       Groenstraat  236 1800    Vilvoorde 
+COMMUNE                                  Vilvoorde
+G_LOCATION                                        
+G_LAT                                             
+G_LNG                                             
+Name: 17303, dtype: object
+ID                        7037125
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   150
+LAND                          200
+PRICE                      249000
+POSTED                  6/17/2017
+VIEWS                        3310
+SAVES                          35
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17304, dtype: object
+ID                                         7035326
+POSTAL_CODE                                   1800
+BEDROOMS                                         5
+LIVING_AREA                                    160
+LAND                                           211
+PRICE                                       335000
+POSTED                                   6/16/2017
+VIEWS                                         2731
+SAVES                                           26
+TYPE                                         House
+LOCATION       Warandelaan  301 1800    Vilvoorde 
+COMMUNE                                  Vilvoorde
+G_LOCATION                                        
+G_LAT                                             
+G_LNG                                             
+Name: 17305, dtype: object
+ID                        7034732
+POSTAL_CODE                  1800
+BEDROOMS                        3
+LIVING_AREA                   140
+LAND                          100
+PRICE                      249000
+POSTED                  6/15/2017
+VIEWS                        2844
+SAVES                          19
+TYPE                        House
+LOCATION       1800    Vilvoorde 
+COMMUNE                 Vilvoorde
+G_LOCATION                       
+G_LAT                            
+G_LNG                            
+Name: 17308, dtype: object
+ID                                       7033868
+POSTAL_CODE                                 1800
+BEDROOMS                                       4
+LIVING_AREA                                  230
+LAND                                         430
+PRICE                                     395000
+POSTED                                 6/19/2017
+VIEWS                                        561
+SAVES                                          3
+TYPE                                       House
+LOCATION       Belgielaan  18 1800    Vilvoorde 
+COMMUNE                                Vilvoorde
+G_LOCATION                                      
+G_LAT                                           
+G_LNG                                           
+Name: 17310, dtype: object
+ID                                             7031931
+POSTAL_CODE                                       1800
+BEDROOMS                                             3
+LIVING_AREA                                        194
+LAND                                               194
+PRICE                                           289000
+POSTED                                       6/14/2017
+VIEWS                                             1341
+SAVES                                               28
+TYPE                                             House
+LOCATION       chauss  romaine  64 1800    Koningsloo 
+COMMUNE                                      Vilvoorde
+G_LOCATION                                            
+G_LAT                                                 
+G_LNG                                                 
+Name: 17312, dtype: object
+ID                                             7026734
+POSTAL_CODE                                       1800
+BEDROOMS                                             4
+LIVING_AREA                                        165
+LAND                                               220
+PRICE                                           330000
+POSTED                                       6/12/2017
+VIEWS                                             4410
+SAVES                                                7
+TYPE                                             House
+LOCATION       Chauss  Romaine  82A 1800    Vilvoorde 
+COMMUNE                                      Vilvoorde
+G_LOCATION                                            
+G_LAT                                                 
+G_LNG                                                 
+Name: 17315, dtype: object
