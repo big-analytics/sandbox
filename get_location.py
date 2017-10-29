@@ -8,22 +8,38 @@ import json
 import pandas
 
 gmaps = googlemaps.Client(key='AIzaSyBfp09visaSvIFh8hFt1yzI-wAhgs4v7uU')
+#gmaps = googlemaps.Client(key='AIzaSyCc2OUYIGQ7Af51hpPRJ8TeEvHKPb4yeC4')
 
-df = pandas.read_csv('sales.txt')
+# Read sales file and filter on a code or more
+df = pandas.read_csv('/Users/gratiel/Documents/work/sandbox/sales.txt')
+
+key = df['POSTAL_CODE'].value_counts()
+print(key)
+
+#df = df[(df['POSTAL_CODE'].isin([1081,3090,1853,1083,1780,1850,1700,1930]))]
+#df = df[df['POSTAL_CODE']]
 df.info()
 
+# Read target file 
+g_df = pandas.read_csv('/Users/gratiel/Documents/work/sandbox/g_sales.txt')
+g_df.info()
+
+# Match files that are not already in the target file
+df = df[df["ID"].isin(g_df["ID"]) == False].head(2500)
+df.info()
 
 # In[5]:
 
 #test_df = df[(df['POSTAL_CODE'].isin([1800,1120,1853,1020,1830])) & (df['BEDROOMS'].isin([3,4,5]))]
-test_df = df[(df['POSTAL_CODE'].isin([1800,1120,1853,1020,1830,1850]))]
+#test_df = df[(df['POSTAL_CODE'].isin([1800,1120,1853,1020,1830,1850]))]
+#test_df = df[(df['POSTAL_CODE'].isin([1830]))]
 #test_df = df[(df['POSTAL_CODE'].notnull()) & (df['BEDROOMS'].isin([3,4,5]))]
 
-test_df.info()
+#df.info()
 
-test_df["G_LOCATION"] = ''
-test_df["G_LAT"] = ''
-test_df["G_LNG"] = ''
+df["G_LOCATION"] = ''
+df["G_LAT"] = ''
+df["G_LNG"] = ''
 
 #test_df.LOCATION
 
@@ -31,9 +47,9 @@ test_df["G_LNG"] = ''
 # In[12]:
 
 num_location = 0
-for idx, row in test_df.iterrows():
+for idx, row in df.iterrows():
     #sys.stdout.write(row)
-    print (idx, row["LOCATION"])
+    #print (idx, row["LOCATION"])
     #print "before="+row["LOCATION"]
     geocode_result = json.dumps(gmaps.geocode(row["LOCATION"]), sort_keys=True, indent=4)
     #print geocode_result
@@ -62,20 +78,18 @@ for idx, row in test_df.iterrows():
         except:
             print "Something happened"
             pass
-            
-    #print "after="+formatted_address
-    #print lat
-    #print lng
     
-    test_df.G_LOCATION[idx] = formatted_address
-    test_df.G_LAT[idx] = lat
-    test_df.G_LNG[idx] = lng
+    print (idx, row["LOCATION"], " => ", formatted_address)
+    
+    df.G_LOCATION[idx] = formatted_address
+    df.G_LAT[idx] = lat
+    df.G_LNG[idx] = lng
     
 #test_df
 
 
 # In[ ]:
 
-test_df.info()
+df.info()
 
-test_df.to_csv(r'g_sales.txt', header=True, index=None, sep=',', mode='w', encoding='utf-8')
+df.to_csv(r'/Users/gratiel/Documents/work/sandbox/g_sales.txt', header=False, index=None, sep=',', mode='a', encoding='utf-8')
