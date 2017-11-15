@@ -7,8 +7,8 @@ import googlemaps
 import json
 import pandas
 
-gmaps = googlemaps.Client(key='AIzaSyBfp09visaSvIFh8hFt1yzI-wAhgs4v7uU')
-#gmaps = googlemaps.Client(key='AIzaSyCc2OUYIGQ7Af51hpPRJ8TeEvHKPb4yeC4')
+#gmaps = googlemaps.Client(key='AIzaSyBfp09visaSvIFh8hFt1yzI-wAhgs4v7uU')
+gmaps = googlemaps.Client(key='AIzaSyCc2OUYIGQ7Af51hpPRJ8TeEvHKPb4yeC4')
 
 # Read sales file and filter on a code or more
 df = pandas.read_csv('/Users/gratiel/Documents/work/sandbox/sales.txt')
@@ -25,7 +25,7 @@ g_df = pandas.read_csv('/Users/gratiel/Documents/work/sandbox/g_sales.txt')
 g_df.info()
 
 # Match files that are not already in the target file
-df = df[df["ID"].isin(g_df["ID"]) == False].head(2500)
+df = df[df["ID"].isin(g_df["ID"]) == False].head(5)
 df.info()
 
 # In[5]:
@@ -51,6 +51,9 @@ for idx, row in df.iterrows():
     #sys.stdout.write(row)
     #print (idx, row["LOCATION"])
     #print "before="+row["LOCATION"]
+    geocode_result = gmaps.geocode(row["LOCATION"])
+    print geocode_result
+    
     geocode_result = json.dumps(gmaps.geocode(row["LOCATION"]), sort_keys=True, indent=4)
     #print geocode_result
     
